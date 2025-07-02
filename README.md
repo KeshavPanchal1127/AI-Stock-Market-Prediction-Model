@@ -15,7 +15,7 @@ pip install yfinance pandas numpy matplotlib seaborn scikit-learn
 
 3. **Run the script**:
 
-python stock_prediction.py
+python PredictionModel.py
 
 4. **Enter your input** when prompted:
 
